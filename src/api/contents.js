@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-    baseURL: "http://127.0.0.1:8000/api/contents"
+    baseURL: "http://tp-s6-p14-web-design-mai-2022-bo-production.up.railway.app/api/contents"
 });
