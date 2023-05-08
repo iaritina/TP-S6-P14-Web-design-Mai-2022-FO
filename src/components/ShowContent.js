@@ -34,7 +34,7 @@ const ShowContent = () => {
         <div>
             <Helmet>
                 <title>{newTitle}</title>
-                <link rel='canonical' href={'/content/' + Cont.date_redaction + '/' + id + '/ia/' + title} />
+                <link rel='canonical' href={'https://luminous-moonbeam-a5c412.netlify.app/content/' + Cont.date_redaction + '/' + id + '/ia/' + title} />
                 <meta name='description' content={Cont.summary} />
                 <meta name="twitter:creator" content="@Iaritina"></meta>
             </Helmet>
