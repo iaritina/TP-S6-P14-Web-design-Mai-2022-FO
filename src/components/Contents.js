@@ -30,7 +30,7 @@ const Contents = () => {
         <div>
             <Helmet>
                 <title>{title} - News, evenements - Explorez le monde avec l'I.A</title>
-                <link rel='canonical' href='/' />
+                <link rel='canonical' href='/Home' />
                 <meta name='description' content="Explorez les dernieres actualites du monde numerique, notamment avec sur l'I.A qui est de plus en plus en tendances." />
                 <meta name="twitter:creator" content="@Iaritina"></meta>
 
