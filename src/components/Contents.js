@@ -30,7 +30,7 @@ const Contents = () => {
         <div>
             <Helmet>
                 <title>{title} - News, evenements - Explorez le monde avec l'I.A</title>
-                <link rel='canonical' href='/Home' />
+                <link rel='canonical' href='https://luminous-moonbeam-a5c412.netlify.app/' />
                 <meta name='description' content="Explorez les dernieres actualites du monde numerique, notamment avec sur l'I.A qui est de plus en plus en tendances." />
                 <meta name="twitter:creator" content="@Iaritina"></meta>
 
